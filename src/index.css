@@ -1,0 +1,14 @@
+*{
+  padding: 0px;
+  margin: 0px;
+  font-family: "Playfair Display", serif;
+}
+/* @media(max-width:600px){
+  #h{
+    display: none;
+  }
+} */  
+.input::placeholder{
+  color: black;
+}
+
